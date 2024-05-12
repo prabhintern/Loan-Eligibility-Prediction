@@ -5,3 +5,4 @@
 
 
 
+![image](https://github.com/prabhintern/Loan-Eligibility-Prediction/assets/141141575/686d2841-c8bc-4a6d-b8d6-e62f2644707f)
